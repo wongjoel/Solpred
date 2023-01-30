@@ -1,0 +1,8 @@
+[ {:case-study-id "All"
+   :case-study-start-dt ""
+   :case-study-end-dt ""}
+   
+ {:case-study-id "15-mar-dummy"
+  :case-study-start-dt "2017-03-15_06-00-00"
+  :case-study-end-dt "2017-04-15_06-20-00"}
+ ]

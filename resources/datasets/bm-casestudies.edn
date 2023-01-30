@@ -1,0 +1,31 @@
+[ {:case-study-id "All"
+   :case-study-start-dt ""
+   :case-study-end-dt ""}
+ 
+ {:case-study-id "5-feb-rolling"
+  :case-study-start-dt "2015-02-05_12-45-00"
+  :case-study-end-dt "2015-02-05_12-59-00"}
+
+ {:case-study-id "26-mar-low"
+  :case-study-start-dt "2015-03-26_13-10-00"
+  :case-study-end-dt "2015-03-26_13-25-00"}
+
+ {:case-study-id "31-mar-rolling"
+  :case-study-start-dt "2015-03-31_12-15-00"
+  :case-study-end-dt "2015-03-31_12-30-00"}
+ 
+  {:case-study-id "25-apr-switch"
+   :case-study-start-dt "2015-04-25_11-55-00"
+   :case-study-end-dt "2015-04-25_12-15-00"}
+
+ {:case-study-id "28-sep-low"
+  :case-study-start-dt "2015-09-28_11-10-00"
+  :case-study-end-dt "2015-09-28_11-30-00"}
+
+ {:case-study-id "19-dec-high"
+  :case-study-start-dt "2015-12-19_11-30-00"
+  :case-study-end-dt "2015-12-19_11-50-00"}
+ 
+  {:case-study-id "19-dec-sharp"
+   :case-study-start-dt "2015-12-19_12-55-00"
+   :case-study-end-dt "2015-12-19_13-15-00"}]

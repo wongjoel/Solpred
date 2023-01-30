@@ -1,0 +1,40 @@
+# Data Directories
+**/data
+
+# Output Directories
+**/out
+**/target
+**/lightning_logs
+
+# Binary Files
+*.parquet
+*.sif
+*.jar
+*.gz
+*.class
+*.ckpt
+
+# LSP
+**/.lsp
+
+# Python
+**/__pycache__
+**/dask-worker-space
+
+# Clojure
+**/.lein-*
+**/.nrepl-port
+**/.cpcache
+**.transit.json
+lock
+
+# Log files
+*.log
+
+# VSCode
+**/.vscode
+.calva
+
+# Emacs
+*~
+\#*\#

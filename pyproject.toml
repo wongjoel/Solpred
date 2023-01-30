@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "solpred"
+version = "0.1.0"
+description = "Python side of solpred"
+authors = ["Joel Wong <wongjoel@users.noreply.github.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^1.4.2"
+pyarrow = "^8.0.0"
+torch = "^1.11.0"
+torchvision = "^0.12.0"
+Pillow = "^9.1.1"
+webdataset = "^0.2.5"
+pytorch-lightning = "^1.6.4"
+einops = "^0.4.1"
+plotly = "^5.8.1"
+matplotlib = "^3.5.2"
+scikit-learn = "^1.1.1"
+seaborn = "^0.11.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
